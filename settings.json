@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "savage.aternos.me",
-    "port": 27738,
+    "port": savage.aternos.me:27738,
     "version": "",
     "try-creative": false
   },
